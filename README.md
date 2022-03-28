@@ -4,4 +4,3 @@
 - 💬 **Ask me about:** 3d vision, robotics, AI
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/adityamwagh/) • [Email](mailto:adityamwagh@gmail.com) • [Twitter](https://twitter.com/adityamwagh)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I pick up new technologies very fast :smile:
