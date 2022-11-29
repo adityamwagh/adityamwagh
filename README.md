@@ -14,14 +14,18 @@ class WhoAmI:
     self.secondname = "Wagh"
     self.education = {"MS": "NYU", "BE": "BITS Pilani"}
     self.occupation = "Researcher at AI4CE Lab, NYU "
+    self.website = "https://adityamwagh.me"
     
   def get_interests(self):
       return ("3d vision", "robotics", "machine learning", "ai")
       
   def get_contact(self):
     return {
-      "LinkedIn": "https://www.linkedin.com/in/adityamwagh/", 
-      "Email": "adityamwagh@outlook.com",
-      "Twitter": "https://twitter.com/adityamwagh"
+      "LinkedIn"  : "https://www.linkedin.com/in/adityamwagh/", 
+      "Twitter"   : "https://twitter.com/adityamwagh",
+      "Email"     : "adityamwagh@outlook.com",
       }
+      
+   def get_resume(self):
+    return self.website + "/resume"
 ```
