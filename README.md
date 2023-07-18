@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aditya Wagh</h1>
-<h3 align="center">Computer Vision Engineer</h3>
-
-<p align="left"> <a href="https://twitter.com/adityamwagh" target="blank"><img src="https://img.shields.io/twitter/follow/adityamwagh?logo=twitter&style=for-the-badge" alt="adityamwagh" /></a> </p>
-
-- 📫 How to reach me **adityamwagh@outlook.com**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adityamwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityamwagh" height="30" width="40" /></a>
