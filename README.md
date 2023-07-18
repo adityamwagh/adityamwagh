@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/adityamwagh" target="blank"><img src="https://img.shields.io/twitter/follow/adityamwagh?logo=twitter&style=for-the-badge" alt="adityamwagh" /></a> </p>
 
-- 💬 Ask me about **Topics in Deep Learning, Machine Learning,**
-
 - 📫 How to reach me **adityamwagh@outlook.com**
 
 <!-- BLOG-POST-LIST:START -->
