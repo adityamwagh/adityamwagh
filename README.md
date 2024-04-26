@@ -7,12 +7,7 @@
 - optimistic about **llm x robotics**
   - let me know if you have an opportunity in this space.
 - my diverse skillset and experience makes my a good candidate for the following positions:
-  -   <ins>software engineer</ins>
-  -   <ins>research engineer</ins>
-  -   <ins>perception software engineer</ins>
-  -   <ins>computer vision engineer</ins>
-  -   <ins>machine learning engineer</ins>
-  -   <ins>data scientist</ins>
+  - <ins>software engineer</ins>, <ins>research engineer</ins>, <ins>perception software engineer</ins>, <ins>computer vision engineer</ins>, <ins>machine learning engineer</ins>, <ins>data scientist</ins>
 - let's have a chat and find out how i can help you. contact details can be found at the bottom.
 
 # 🔨 my toolkit (non-exhaustive): 
