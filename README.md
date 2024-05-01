@@ -1,7 +1,6 @@
 # 👦🏻 about me 
 
-- i'm aditya
-- nyu and bits pilani alum
+- i'm aditya, an engineer and a nyu and bits pilani alum
 - i work on problems in robotics, computer vision, and machine learning.
 - i'm interested in multi-modal ai models for perception, localization & mapping.
 - optimistic about **llm x robotics**
