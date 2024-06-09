@@ -2,9 +2,8 @@
 
 - i'm aditya, an engineer and a nyu and bits pilani alum
 - i work on problems in robotics, computer vision, and machine learning.
-- i'm interested in multi-modal ai models for perception, localization & mapping.
-- optimistic about **llm + robotics**
-  - let me know if you have an opportunity in this space.
+- i'm interested in multi-modal ai models for perception, localization, mapping and control.
+- let me know if you have an opportunity in the **large multimodal models + robotics** space
 - my diverse skillset and experience makes my a good candidate for the following positions:
   - <ins>software engineer</ins>, <ins>research engineer</ins>, <ins>perception software engineer</ins>, <ins>computer vision engineer</ins>, <ins>machine learning engineer</ins>, <ins>data scientist</ins>
 - let's have a chat and find out how i can help you. contact details can be found at the bottom.
