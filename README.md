@@ -8,11 +8,13 @@
 [![X](https://img.shields.io/badge/X-@adityamwagh-black?style=flat&logo=x)][x]
 [![Email](https://img.shields.io/badge/Email-adityamwagh@outlook.com-red?style=flat&logo=maildotru)][email]
 
-I'm a Machine Learning Engineer with Masters & Bachelors degrees in Engineering from [![](nyu.png) New York University (NYU)](https://nyu.edu)  and BITS Pilani and I'm passionate about solving complex problems in:
-
-- 🤖 **Robotics.** Machine Learning based Perception, Localization and Mapping
-- 👁️ **Computer Vision.** Object Detection, Semantic Segmentation, 3D Reconstruction & Neural Rendering, Optical Flow, Tracking
-- 🧠 **Machine Learning.** CNNs, Transformers, Diffusion Models, AutoEncoders
+I'm a Machine Learning Engineer working on appling ML to problems in Computer Vision & Robotics. 
+- MS in EE from <img src="nyu.png" height=12px width=auto> [New York University (NYU)](https://nyu.edu)
+- BE in EE from BITS Pilani
+- I'm passionate about solving complex problems in:
+  - 🤖 **Robotics.** Machine Learning based Perception, Localization and Mapping
+  - 👁️ **Computer Vision.** Object Detection, Semantic Segmentation, 3D Reconstruction & Neural Rendering, Optical Flow, Tracking
+  - 🧠 **Machine Learning.** CNNs, Transformers, Diffusion Models, AutoEncoders
 
 ## 🚀 What I Bring to the Table
 
