@@ -1,29 +1,25 @@
 # 👋 Hello, I'm Aditya
 
+- I'm actively looking for opportunities in the **large multimodal models + robotics** space! 
+- Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
+- Currently interested is in using **LLMs & VLMs** for perception, localization, mapping, and control for robotics & autonomous systems.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityamwagh-blue?style=flat&logo=linkedin)][linkedin]
 [![X](https://img.shields.io/badge/X-@adityamwagh-black?style=flat&logo=x)][x]
 [![Email](https://img.shields.io/badge/Email-adityamwagh@outlook.com-red?style=flat&logo=maildotru)][email]
 
-I'm an engineer and a NYU and BITS Pilani alum, passionate about solving complex problems in:
+I'm a Machine Learning Engineer with Masters & Bachelors degrees in Engineering from [![](nyu.png) New York University (NYU)](https://nyu.edu)  and BITS Pilani and I'm passionate about solving complex problems in:
 
-- 🤖 Robotics
-- 👁️ Computer Vision
-- 🧠 Machine Learning
-
-My current focus is on **multi-modal AI models** for perception, localization, mapping, and control. I'm actively seeking opportunities in the **large multimodal models + robotics** space! I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
+- 🤖 **Robotics.** Machine Learning based Perception, Localization and Mapping
+- 👁️ **Computer Vision.** Object Detection, Semantic Segmentation, 3D Reconstruction & Neural Rendering, Optical Flow, Tracking
+- 🧠 **Machine Learning.** CNNs, Transformers, Diffusion Models, AutoEncoders
 
 ## 🚀 What I Bring to the Table
 
-My diverse skillset and experience make me an excellent candidate for roles such as:
-
-- Software Engineer
-- Research Engineer
-- Perception Software Engineer
-- Computer Vision Engineer
-- Machine Learning Engineer
-- Data Scientist
+I posess a strong progamming ability and an in-depth understanding of concepts machine learning, 2d & 3d computer vision, perception, localization and mapping (SLAM).
 
 ## 🛠️ Tech Stack
+This is a non-exhaustive list of the technologies I have used in the past and I am profesionally competent in.
 
 | Languages                                                                                                    | Frameworks & Libraries                                                                                                                                                                                                                                                                                                                                                                              | Currently Learning                       |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -53,7 +49,7 @@ My diverse skillset and experience make me an excellent candidate for roles such
 [tensorflow-shield]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white
 [bash-shield]: https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white
 [lightning-shield]: https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat&logo=pytorch-lightning&logoColor=white
-[huggingface-shield]: https://img.shields.io/badge/Hugging_Face-D00000?style=flat&logo=huggingface&logoColor=white
+[huggingface-shield]: https://img.shields.io/badge/Hugging_Face-fee133?style=flat&logo=huggingface&logoColor=black
 [cmake-shield]: https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white
 [eigen-shield]: https://img.shields.io/badge/Eigen-0578C1?style=flat&logo=eigen&logoColor=white
 [tensorrt-shield]: https://img.shields.io/badge/TensorRT-%2300C853?style=flat&logo=nvidia&logoColor=white
