@@ -1,24 +1,37 @@
 # 👋 Hello, I'm Aditya
 
-- I'm actively looking for opportunities in the **large multimodal models + robotics** space! 
-- Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
-- Currently interested is in using **LLMs & VLMs** for perception, localization, mapping, and control for robotics & autonomous systems.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityamwagh-blue?style=flat&logo=linkedin)][linkedin]
 [![X](https://img.shields.io/badge/X-@adityamwagh-black?style=flat&logo=x)][x]
 [![Email](https://img.shields.io/badge/Email-adityamwagh@outlook.com-red?style=flat&logo=maildotru)][email]
 
 I'm a Machine Learning Engineer working on appling ML to problems in Computer Vision & Robotics. 
-- MS in EE from <img src="nyu.png" height=12px width=auto> [New York University (NYU)](https://nyu.edu)
-- BE in EE from BITS Pilani
+
+- Actively looking for opportunities in the **large multimodal models + robotics** space!
+- Competent Python & C++ programmer with an in-depth understanding of concepts machine learning, 2d & 3d computer vision, perception, localization and mapping (SLAM). 
+- Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
+- Currently interested is in using **LLMs & VLMs** for perception, localization, mapping, and control for robotics & autonomous systems.
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="nyu.png" height="72px" width="auto"><br>
+        <a href="https://nyu.edu">New York University (NYU)</a><br>
+        MS EE'23
+      </td>
+      <td align="center" style="border: none;">
+        <img src="bits-pilani-logo.svg" height="72px" width="auto"><br>
+        <a href="https://bits-pilani.ac.in">BITS Pilani</a><br>
+        BE EE'19
+      </td>
+    </tr>
+  </table>
+</div>
+
 - I'm passionate about solving complex problems in:
   - 🤖 **Robotics.** Machine Learning based Perception, Localization and Mapping
   - 👁️ **Computer Vision.** Object Detection, Semantic Segmentation, 3D Reconstruction & Neural Rendering, Optical Flow, Tracking
   - 🧠 **Machine Learning.** CNNs, Transformers, Diffusion Models, AutoEncoders
-
-## 🚀 What I Bring to the Table
-
-I posess a strong progamming ability and an in-depth understanding of concepts machine learning, 2d & 3d computer vision, perception, localization and mapping (SLAM).
 
 ## 🛠️ Tech Stack
 This is a non-exhaustive list of the technologies I have used in the past and I am profesionally competent in.
@@ -45,12 +58,12 @@ This is a non-exhaustive list of the technologies I have used in the past and I 
 [jax-shield]: https://img.shields.io/badge/JAX-007FFF?style=flat&logo=google&logoColor=white
 [c-shield]: https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white
 [open3d-shield]: https://img.shields.io/badge/Open3D-%23white.svg?style=flat&logoColor=white
-[matlab-shield]: https://img.shields.io/badge/MATLAB-%23white.svg?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png&logoColor=white
+[matlab-shield]: https://img.shields.io/badge/MATLAB-FFFFFF.svg?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik01Ljc2NSAyMS42NjFjLTEuNTkzLTEuMTg4LTMuNTc3LTIuNTgzLTUuNzY1LTQuMTcybDcuNzQ5LTIuOTc5IDMuMTgzIDIuMzg1Yy0yLjM4NSAyLjc4MS0zLjk3MyAzLjc3Ni01LjE2NyA0Ljc3MXpNMjcuMDMxIDEzLjMxN2MtMC41OTktMS41ODgtMC45OTUtMy4xODEtMS41OTMtNC43NzEtMC41OTMtMS43OTItMS4xODctMy4zOC0yLjE4My00Ljc3MS0wLjQtMC41OTMtMS4xOTItMS45ODktMi4xODctMS45ODktMC4xOTkgMC0wLjM5NiAwLjE5Ny0wLjU5OSAwLjE5Ny0wLjU5NSAwLjIwNC0xLjM5MSAxLjM5MS0xLjU4OSAyLjE4OC0wLjU5MyAwLjk5NS0xLjc5MiAyLjU4My0yLjU4MyAzLjU3Ny0wLjE5OSAwLjM5Ni0wLjYgMC43OTctMC43OTcgMC45OTYtMC41OTMgMC4zOTUtMS4xOTMgMC45OTUtMS45ODQgMS4zOTEtMC4yMDQgMC0wLjQwMSAwLjE5Ny0wLjU5OSAwLjE5Ny0wLjU5NSAwLTAuOTk2IDAuMzk2LTEuMzkxIDAuNTkzLTAuNTk1IDAuNi0xLjE5MyAxLjM5MS0xLjc4NyAxLjk5MSAwIDAuMTk3LTAuMjA0IDAuMzk1LTAuNDAxIDAuNTk5bDIuOTg0IDIuMTgxYzIuMTg4LTIuNTgzIDQuNzcxLTUuMTY3IDYuNTU3LTEwLjEzNSAwIDAtMC41OTMgNS4zNjktNS4zNjQgMTEuMTMxLTIuOTg1IDMuMzgtNS4zNzEgNS4xNzEtNS43NjcgNS41NjcgMCAwIDAuNzkyLTAuMTk3IDEuNTg5IDAuMTk5IDEuNTkzIDAuNTkzIDIuMzg1IDIuNzgxIDIuOTg0IDQuMzY5IDAuMzk2IDEuMTkzIDAuOTg5IDIuMTg4IDEuMzkxIDMuMzggMS41ODktMC4zOTYgMi41ODQtMC45OTUgMy41NzktMS45ODkgMC45ODktMC45ODkgMS45ODQtMi4xODMgMi45NzktMy4xNzcgMS43OTItMi4xODcgMy45NzUtNC45NjggNi43NTYtMy41NzcgMC40IDAuMTk3IDAuOTk1IDAuNTk5IDEuMTkyIDAuNzk2IDAuNTk5IDAuMzk2IDAuOTk1IDAuNzkyIDEuNTkzIDEuMzkxIDAuOTkxIDAuNzkyIDEuMzkxIDEuMzkxIDIuMTgzIDEuNzg3LTEuOTg0LTMuOTczLTMuMzc1LTcuOTQ4LTQuOTY4LTEyLjEyNXoiLz4KPC9zdmc+
 [keras-shield]: https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras&logoColor=white
 [cuda-shield]: https://img.shields.io/badge/CUDA-%2300C853?style=flat&logo=nvidia&logoColor=white
 [tensorflow-shield]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white
 [bash-shield]: https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white
-[lightning-shield]: https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat&logo=pytorch-lightning&logoColor=white
+[lightning-shield]: https://img.shields.io/badge/Lightning-792EE5?style=flat&logo=pytorch-lightning&logoColor=white
 [huggingface-shield]: https://img.shields.io/badge/Hugging_Face-fee133?style=flat&logo=huggingface&logoColor=black
 [cmake-shield]: https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white
 [eigen-shield]: https://img.shields.io/badge/Eigen-0578C1?style=flat&logo=eigen&logoColor=white
