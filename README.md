@@ -2,9 +2,11 @@
   <h1> 👋 Hello, I'm Aditya</h1> 
 </div>
 
-I'm a **Computer Vision and Machine Learning Engineer** working on **applying ML to problems in Computer Vision & Robotics**. 
+I'm a NYC based **ML Engineer**/**Roboticist** working on **applying ML to problems in Computer Vision & Robotics**. Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
 
-I hold MS and BE degrees in Electrical Engineering from **New York University** and **BITS Pilani**, with a specialization in Robotics, Machine Learning and Computer Vision.
+I hold MS and BE degrees in Electrical Engineering from **New York University** and **BITS Pilani**, with a specialization in Robotics, Machine Learning and Computer Vision. I'm a competent **Python** and **C++** programmer with an in-depth understanding of deep learning, 2D & 3D computer vision, perception, localization and mapping (SLAM).
+
+Previously worked on building learning based SLAM systems, transformer based point cloud registration & feature matching and semantic segmentation.
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -23,16 +25,11 @@ I hold MS and BE degrees in Electrical Engineering from **New York University** 
   </table>
 </div>
 
-- I'm passionate about solving complex problems in:
-  - 🤖 **Robotics.** Machine Learning based Perception, Localization and Mapping
-  - 👁️ **Computer Vision.** Object Detection, Semantic Segmentation, 3D Reconstruction & Neural Rendering, Optical Flow, Tracking
-  - 🧠 **Machine Learning.** CNNs, Transformers, Diffusion Models, AutoEncoders
-
-  
-- Actively looking for opportunities in the **large multimodal models + robotics** space!
-- Competent **Python** and **C++** programmer with an in-depth understanding of concepts machine learning, 2d & 3d computer vision, perception, localization and mapping (SLAM). 
-- Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
-- Currently interested is in using **LLMs & VLMs** for perception, localization, mapping, and control for robotics & autonomous systems.
+- **Interests**
+  - Traditional & ML based approaches to 3D Vision
+  - LLMs & VLMs + Robotics and Robotics Foundation Models
+  - Semantic Mapping and HD Maps for Autonomous Systems
+  - End-to-End Models for Manipulation
 
 <div align="center"> 
   <h1> 🛠️ Tech Stack </h1> 
