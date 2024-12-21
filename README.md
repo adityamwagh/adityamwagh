@@ -2,11 +2,13 @@
   <h1> 👋 Hello, I'm Aditya</h1> 
 </div>
 
-I'm a NYC based **ML Engineer**/**Roboticist** working on **applying ML to problems in Computer Vision & Robotics**. Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
+I'm a NYC based **Roboticist** working on **applying machine learning to problems in Computer Vision & Robotics**. 
 
-I hold MS and BE degrees in Electrical Engineering from **New York University** and **BITS Pilani**, with a specialization in Robotics, Machine Learning and Computer Vision. I'm a competent **Python** and **C++** programmer with an in-depth understanding of deep learning, 2D & 3D computer vision, perception, localization and mapping (SLAM).
+I hold MS and BE degrees in Electrical Engineering from **New York University** and **BITS Pilani**, with a specialization in Robotics, Machine Learning and Computer Vision. 
 
-Previously worked on building learning based SLAM systems, transformer based point cloud registration & feature matching and semantic segmentation.
+I'm a competent **Python** and **C++** programmer with an in-depth understanding of deep learning, 2D & 3D computer vision, perception, localization and mapping (SLAM).
+
+Previously worked on building learning based SLAM systems, transformer based point cloud registration & learning-based feature matching and semantic segmentation.
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -26,10 +28,13 @@ Previously worked on building learning based SLAM systems, transformer based poi
 </div>
 
 - **Interests**
-  - Traditional & ML based approaches to 3D Vision
-  - LLMs & VLMs + Robotics and Robotics Foundation Models
-  - Semantic Mapping and HD Maps for Autonomous Systems
-  - End-to-End Models for Manipulation
+  - Traditional & Machine Learning based approaches to 3D Computer Vision
+  - Semantic Mapping and High Definition Maps for Autonomous Systems
+  - Foundation Models for Robotics
+  - Robot Manipulation using Imitation Learning
+  - Language Grounding in Robotics
+
+Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
 
 <div align="center"> 
   <h1> 🛠️ Tech Stack </h1> 
