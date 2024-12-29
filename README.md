@@ -1,40 +1,36 @@
 <div align="center"> 
-  <h1> 👋 Hello, I'm Aditya</h1> 
+  <h1> 👋 Hi, I'm Aditya</h1> 
 </div>
 
-I'm a NYC based **Roboticist** working on **applying machine learning to problems in Computer Vision & Robotics**. 
+I'm a **NYC-based Roboticist** passionate about **leveraging machine learning to tackle challenges in Computer Vision and Robotics**.
 
-I hold MS and BE degrees in Electrical Engineering from **New York University** and **BITS Pilani**, with a specialization in Robotics, Machine Learning and Computer Vision. 
-
-I'm a competent **Python** and **C++** programmer with an in-depth understanding of deep learning, 2D & 3D computer vision, perception, localization and mapping (SLAM).
-
-Previously worked on building learning based SLAM systems, transformer based point cloud registration & learning-based feature matching and semantic segmentation.
+I hold a Master's in Electrical Engineering from **New York University (NYU)** and a Bachelor's in Electrical Engineering from **BITS Pilani**, with a strong focus on Robotics, Machine Learning, and Computer Vision.
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none;">
         <img src="nyu.png" height="72px" width="auto"><br>
-        <a href="https://nyu.edu">New York University (NYU)</a><br>
-        MS EE'23
+        <a href="https://nyu.edu" target="_blank">New York University (NYU)</a><br>
+        MS in Electrical Engineering '23
       </td>
       <td align="center" style="border: none;">
         <img src="bits-pilani-logo.svg" height="72px" width="auto"><br>
-        <a href="https://bits-pilani.ac.in">Birla Institute of Technology & Science (BITS), Pilani</a><br>
-        BE EE'19
+        <a href="https://bits-pilani.ac.in" target="_blank">BITS Pilani</a><br>
+        BE in Electronics Engineering'19
       </td>
     </tr>
   </table>
 </div>
 
-- **Interests**
-  - Traditional & Machine Learning based approaches to 3D Computer Vision
-  - Semantic Mapping and High Definition Maps for Autonomous Systems
-  - Foundation Models for Robotics
-  - Robot Manipulation using Imitation Learning
-  - Language Grounding in Robotics
+### 🌟 **Research Interests**
+- **3D Computer Vision:** Traditional and machine learning-based approaches
+- **Autonomous Systems:** Semantic mapping and high-definition maps
+- **Robotics:** Foundation models, imitation learning for manipulation, and language grounding
+- **Model Optimization:** Accelerating machine learning inference and developing machine learning compilers
 
-Always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to chat about robotics, AI, or any exciting projects!
+### 🤝 **Let's Connect**
+I'm always open to intriguing discussions and collaboration opportunities. Whether you're working on cutting-edge robotics, AI, or exciting projects, feel free to reach out—I'd love to connect!
 
 <div align="center"> 
   <h1> 🛠️ Tech Stack </h1> 
