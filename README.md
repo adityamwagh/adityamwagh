@@ -23,11 +23,14 @@ I hold a Master's in Electrical Engineering from **New York University (NYU)** a
   </table>
 </div>
 
-### 🌟 **Research Interests**
-- **3D Computer Vision:** Traditional and machine learning-based approaches
-- **Autonomous Systems:** Semantic mapping and high-definition maps
-- **Robotics:** Foundation models, imitation learning for manipulation, and language grounding
-- **Model Optimization:** Accelerating machine learning inference and developing machine learning compilers
+### 🌟 **Interests**
+| **Domain**                 | **Subarea**                                                                                     |
+|------------------------------|-----------------------------------------------------------------------------------------------------|
+| **3D Computer Vision and Perception** | Classical and Machine Learning-based Approaches                                              |
+| **Localization and Mapping**        | Visual Localization, State Estimation and Sensor Fusion, High-Definition and Semantic Mapping |
+| **Robot Learning**                  | Language Grounding in Robotics, Vision-Language-Action Models, Behaviour Cloning and Imitation Learning for Robot Manipulation |
+| **ML Systems**       | Distributed ML, ML Inference, ML Compilers                     |
+
 
 ### 🤝 **Let's Connect**
 I'm always open to intriguing discussions and collaboration opportunities. Whether you're working on cutting-edge robotics, AI, or exciting projects, feel free to reach out—I'd love to connect!
