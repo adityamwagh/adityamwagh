@@ -1,59 +1,38 @@
-<div align="center"> 
-  <h1> 👋 Hi, I'm Aditya</h1> 
-</div>
 
-I'm a **NYC-based Roboticist** passionate about **leveraging machine learning to tackle challenges in Computer Vision and Robotics**.
+## 👋 Hi, I'm Aditya  
 
-I hold a Master's in Electrical Engineering from **New York University (NYU)** and a Bachelor's in Electrical Engineering from **BITS Pilani**, with a strong focus on Robotics, Machine Learning, and Computer Vision.
+NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics. Interested in [Augmented Reality], [Self-Driving], [3D Reconstruction] [Distributed ML] and [ML Inference] and recently - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning]
 
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="nyu.png" height="72px" width="auto"><br>
-        <a href="https://nyu.edu" target="_blank">New York University (NYU)</a><br>
-        MS in Electrical Engineering '23
-      </td>
-      <td align="center" style="border: none;">
-        <img src="bits-pilani-logo.svg" height="72px" width="auto"><br>
-        <a href="https://bits-pilani.ac.in" target="_blank">BITS Pilani</a><br>
-        BE in Electronics Engineering'19
-      </td>
-    </tr>
-  </table>
-</div>
+I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
-### 🌟 **Interests**
-| **Domain**                 | **Subarea**                                                                                     |
-|------------------------------|-----------------------------------------------------------------------------------------------------|
-| **3D Computer Vision and Perception** | Classical and Machine Learning-based Approaches                                              |
-| **Localization and Mapping**        | Visual Localization, State Estimation and Sensor Fusion, High-Definition and Semantic Mapping |
-| **Robot Learning**                  | Language Grounding in Robotics, Vision-Language-Action Models, Behaviour Cloning and Imitation Learning for Robot Manipulation |
-| **ML Systems**       | Distributed ML, ML Inference, ML Compilers                     |
+Always open to discussions and collaboration on Machine Learning, Robotics and Computer Vision. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
+
+### 🛠️ Tech Stack
+
+![Python][python-shield] ![C++][cpp-shield] ![C][c-shield] ![MATLAB][matlab-shield] ![Bash][bash-shield] ![CUDA][cuda-shield] ![HTML][html-shield] ![CSS][css-shield] ![JavaScript][js-shield] ![PyTorch][pytorch-shield] ![OpenCV][opencv-shield] ![Open3D][open3d-shield] ![Keras][keras-shield] ![TensorFlow][tensorflow-shield] ![Hugging Face][huggingface-shield] ![Scikit-learn][scikit-learn-shield] ![NumPy][numpy-shield] ![SciPy][scipy-shield] ![Pandas][pandas-shield] ![CMake][cmake-shield] ![ONNX][onnx-shield] ![TensorRT][tensorrt-shield] ![Docker][docker-shield] ![Linux][linux-shield] 
+
+#### Learning
+![Rust][rust-shield] ![JAX][jax-shield]
 
 
-### 🤝 **Let's Connect**
-I'm always open to intriguing discussions and collaboration opportunities. Whether you're working on cutting-edge robotics, AI, or exciting projects, feel free to reach out—I'd love to connect!
+ 
+[Augmented Reality]: https://www.youtube.com/watch?v=G0eKzU_fV00 
+[Self-Driving]: https://www.youtube.com/watch?v=hA_-MkU0Nfw
+[3D Reconstruction]: https://en.wikipedia.org/wiki/3D_reconstruction?useskin=vector
+[Distributed ML]: https://joerihermans.com/ramblings/distributed-deep-learning-part-1-an-introduction/
+[ML Inference]: https://www.nscale.com/blog/ai-inference-what-is-it-how-does-it-work-and-why-it-is-important
+[LLMs]: https://en.wikipedia.org/wiki/Large_language_model
+[VLMs]: https://www.nvidia.com/en-us/glossary/vision-language-models/
+[AI Agents]: https://blogs.nvidia.com/blog/what-is-agentic-ai/
+[Embodied AI]: https://www.cmu.edu/real/
+[Robot Learning]: https://www.ieee-ras.org/robot-learning
 
-<div align="center"> 
-  <h1> 🛠️ Tech Stack </h1> 
-</div>
-
-This is a non-exhaustive list of the technologies I have used in the past and I am profesionally competent in.
-
-
-| Languages                                                                                                    | Frameworks & Libraries                                                                                                                                                                                                                                                                                                                                                                              | Currently Learning                       |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| ![Python][python-shield] ![C++][cpp-shield] ![C][c-shield] ![MATLAB][matlab-shield] ![Bash][bash-shield] ![CUDA][cuda-shield] ![HTML][html-shield] ![CSS][css-shield] ![JavsScript][js-shield]| ![PyTorch][pytorch-shield] ![OpenCV][opencv-shield] ![Open3D][open3d-shield] ![Keras][keras-shield] ![TensorFlow][tensorflow-shield] ![Hugging Face][huggingface-shield] ![Scikit-learn][scikit-learn-shield] ![NumPy][numpy-shield] ![SciPy][scipy-shield] ![Pandas][pandas-shield] ![CMake][cmake-shield] ![ONNX][onnx-shield] ![TensorRT][tensorrt-shield]  ![Docker][docker-shield] ![Linux][linux-shield]| ![Rust][rust-shield] ![JAX][jax-shield] |
-
-<div align="center"> 
-  <h1> 📊 GitHub Stats </h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamwagh&show_icons=true&theme=transparent"/>
-</div>
 
 [linkedin]: https://www.linkedin.com/in/adityamwagh
 [x]: https://www.x.com/adityamwagh
 [email]: mailto:adityamwagh@outlook.com
+
+
 [python-shield]: https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54
 [cpp-shield]: https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white
 [html-shield]: https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white
@@ -66,7 +45,6 @@ This is a non-exhaustive list of the technologies I have used in the past and I 
 [c-shield]: https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white
 [open3d-shield]: https://img.shields.io/badge/Open3D-%23white.svg?style=flat&logoColor=white
 [onnx-shield]: https://img.shields.io/badge/ONNX-%23white.svg?style=flat&logo=ONNX&logoColor=white
-[matlab-shield]: https://img.shields.io/badge/MATLAB-FFFFFF.svg?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik01Ljc2NSAyMS42NjFjLTEuNTkzLTEuMTg4LTMuNTc3LTIuNTgzLTUuNzY1LTQuMTcybDcuNzQ5LTIuOTc5IDMuMTgzIDIuMzg1Yy0yLjM4NSAyLjc4MS0zLjk3MyAzLjc3Ni01LjE2NyA0Ljc3MXpNMjcuMDMxIDEzLjMxN2MtMC41OTktMS41ODgtMC45OTUtMy4xODEtMS41OTMtNC43NzEtMC41OTMtMS43OTItMS4xODctMy4zOC0yLjE4My00Ljc3MS0wLjQtMC41OTMtMS4xOTItMS45ODktMi4xODctMS45ODktMC4xOTkgMC0wLjM5NiAwLjE5Ny0wLjU5OSAwLjE5Ny0wLjU5NSAwLjIwNC0xLjM5MSAxLjM5MS0xLjU4OSAyLjE4OC0wLjU5MyAwLjk5NS0xLjc5MiAyLjU4My0yLjU4MyAzLjU3Ny0wLjE5OSAwLjM5Ni0wLjYgMC43OTctMC43OTcgMC45OTYtMC41OTMgMC4zOTUtMS4xOTMgMC45OTUtMS45ODQgMS4zOTEtMC4yMDQgMC0wLjQwMSAwLjE5Ny0wLjU5OSAwLjE5Ny0wLjU5NSAwLTAuOTk2IDAuMzk2LTEuMzkxIDAuNTkzLTAuNTk1IDAuNi0xLjE5MyAxLjM5MS0xLjc4NyAxLjk5MSAwIDAuMTk3LTAuMjA0IDAuMzk1LTAuNDAxIDAuNTk5bDIuOTg0IDIuMTgxYzIuMTg4LTIuNTgzIDQuNzcxLTUuMTY3IDYuNTU3LTEwLjEzNSAwIDAtMC41OTMgNS4zNjktNS4zNjQgMTEuMTMxLTIuOTg1IDMuMzgtNS4zNzEgNS4xNzEtNS43NjcgNS41NjcgMCAwIDAuNzkyLTAuMTk3IDEuNTg5IDAuMTk5IDEuNTkzIDAuNTkzIDIuMzg1IDIuNzgxIDIuOTg0IDQuMzY5IDAuMzk2IDEuMTkzIDAuOTg5IDIuMTg4IDEuMzkxIDMuMzggMS41ODktMC4zOTYgMi41ODQtMC45OTUgMy41NzktMS45ODkgMC45ODktMC45ODkgMS45ODQtMi4xODMgMi45NzktMy4xNzcgMS43OTItMi4xODcgMy45NzUtNC45NjggNi43NTYtMy41NzcgMC40IDAuMTk3IDAuOTk1IDAuNTk5IDEuMTkyIDAuNzk2IDAuNTk5IDAuMzk2IDAuOTk1IDAuNzkyIDEuNTkzIDEuMzkxIDAuOTkxIDAuNzkyIDEuMzkxIDEuMzkxIDIuMTgzIDEuNzg3LTEuOTg0LTMuOTczLTMuMzc1LTcuOTQ4LTQuOTY4LTEyLjEyNXoiLz4KPC9zdmc+
 [keras-shield]: https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras&logoColor=white
 [cuda-shield]: https://img.shields.io/badge/CUDA-%2300C853?style=flat&logo=nvidia&logoColor=white
 [tensorflow-shield]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white
@@ -80,3 +58,4 @@ This is a non-exhaustive list of the technologies I have used in the past and I 
 [docker-shield]: https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white
 [scikit-learn-shield]: https://img.shields.io/badge/Scikit%20learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white
 [linux-shield]: https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white
+[matlab-shield]: https://img.shields.io/badge/MATLAB-FFFFFF.svg?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik01Ljc2NSAyMS42NjFjLTEuNTkzLTEuMTg4LTMuNTc3LTIuNTgzLTUuNzY1LTQuMTcybDcuNzQ5LTIuOTc5IDMuMTgzIDIuMzg1Yy0yLjM4NSAyLjc4MS0zLjk3MyAzLjc3Ni01LjE2NyA0Ljc3MXpNMjcuMDMxIDEzLjMxN2MtMC41OTktMS41ODgtMC45OTUtMy4xODEtMS41OTMtNC43NzEtMC41OTMtMS43OTItMS4xODctMy4zOC0yLjE4My00Ljc3MS0wLjQtMC41OTMtMS4xOTItMS45ODktMi4xODctMS45ODktMC4xOTkgMC0wLjM5NiAwLjE5Ny0wLjU5OSAwLjE5Ny0wLjU5NSAwLjIwNC0xLjM5MSAxLjM5MS0xLjU4OSAyLjE4OC0wLjU5MyAwLjk5NS0xLjc5MiAyLjU4My0yLjU4MyAzLjU3Ny0wLjE5OSAwLjM5Ni0wLjYgMC43OTctMC43OTcgMC45OTYtMC41OTMgMC4zOTUtMS4xOTMgMC45OTUtMS45ODQgMS4zOTEtMC4yMDQgMC0wLjQwMSAwLjE5Ny0wLjU5OSAwLjE5Ny0wLjU5NSAwLTAuOTk2IDAuMzk2LTEuMzkxIDAuNTkzLTAuNTk1IDAuNi0xLjE5MyAxLjM5MS0xLjc4NyAxLjk5MSAwIDAuMTk3LTAuMjA0IDAuMzk1LTAuNDAxIDAuNTk5bDIuOTg0IDIuMTgxYzIuMTg4LTIuNTgzIDQuNzcxLTUuMTY3IDYuNTU3LTEwLjEzNSAwIDAtMC41OTMgNS4zNjktNS4zNjQgMTEuMTMxLTIuOTg1IDMuMzgtNS4zNzEgNS4xNzEtNS43NjcgNS41NjcgMCAwIDAuNzkyLTAuMTk3IDEuNTg5IDAuMTk5IDEuNTkzIDAuNTkzIDIuMzg1IDIuNzgxIDIuOTg0IDQuMzY5IDAuMzk2IDEuMTkzIDAuOTg5IDIuMTg4IDEuMzkxIDMuMzggMS41ODktMC4zOTYgMi41ODQtMC45OTUgMy41NzktMS45ODkgMC45ODktMC45ODkgMS45ODQtMi4xODMgMi45NzktMy4xNzcgMS43OTItMi4xODcgMy45NzUtNC45NjggNi43NTYtMy41NzcgMC40IDAuMTk3IDAuOTk1IDAuNTk5IDEuMTkyIDAuNzk2IDAuNTk5IDAuMzk2IDAuOTk1IDAuNzkyIDEuNTkzIDEuMzkxIDAuOTkxIDAuNzkyIDEuMzkxIDEuMzkxIDIuMTgzIDEuNzg3LTEuOTg0LTMuOTczLTMuMzc1LTcuOTQ4LTQuOTY4LTEyLjEyNXoiLz4KPC9zdmc+
