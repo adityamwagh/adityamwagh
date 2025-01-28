@@ -5,7 +5,7 @@ NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics.
 
 I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
-Always open to discussions and collaboration on Machine Learning, Robotics and Computer Vision. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
+Always open to discussions and collaboration. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
 
 ### 🛠️ Tech Stack
 
