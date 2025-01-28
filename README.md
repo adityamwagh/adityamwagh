@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Aditya  
 
-NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics. Interested in [Augmented Reality], [Self-Driving], [3D Reconstruction] [Distributed ML] and [ML Inference] and recently - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning]
+NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics. Interested in [Augmented Reality], [Self-Driving], [3D Reconstruction], [Distributed ML], [ML Inference] and recently - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning]
 
 I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
