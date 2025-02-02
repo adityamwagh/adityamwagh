@@ -1,22 +1,24 @@
 
 ## 👋 Hi, I'm Aditya  
 
-NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics. Interested in [Augmented Reality], [Self-Driving], [3D Reconstruction], [Distributed ML], [ML Inference] and recently - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning]
+NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics. 
+- Interested in [Augmented and Extented Reality (AR/XR)], [Self-Driving] (Pereption, SLAM and Control), [3D Reconstruction] - Structure-from-Motion, Photogrammetry, Neural Rendering & NeRF, Gaussian Splatting, [Distributed ML], [ML Inference]
+- Exploring - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning] (Imitation Learning, Behaviour Cloning, Vision-Language-Action Models, Reinforcement Learning)
 
 I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
-Always open to discussions and collaboration. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
+Always eager to learn new things. Always open to discussions and collaboration. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
 
 ### 🛠️ Tech Stack
 
+#### Experienced
 ![Python][python-shield] ![C++][cpp-shield] ![C][c-shield] ![MATLAB][matlab-shield] ![Bash][bash-shield] ![CUDA][cuda-shield] ![HTML][html-shield] ![CSS][css-shield] ![JavaScript][js-shield] ![PyTorch][pytorch-shield] ![OpenCV][opencv-shield] ![Open3D][open3d-shield] ![Keras][keras-shield] ![TensorFlow][tensorflow-shield] ![Hugging Face][huggingface-shield] ![Scikit-learn][scikit-learn-shield] ![NumPy][numpy-shield] ![SciPy][scipy-shield] ![Pandas][pandas-shield] ![CMake][cmake-shield] ![ONNX][onnx-shield] ![TensorRT][tensorrt-shield] ![Docker][docker-shield] ![Linux][linux-shield] 
 
 #### Learning
 ![Rust][rust-shield] ![JAX][jax-shield]
 
 
- 
-[Augmented Reality]: https://www.youtube.com/watch?v=G0eKzU_fV00 
+[Augmented and Extented Reality (AR/XR)]: https://www.youtube.com/watch?v=G0eKzU_fV00 
 [Self-Driving]: https://www.youtube.com/watch?v=hA_-MkU0Nfw
 [3D Reconstruction]: https://en.wikipedia.org/wiki/3D_reconstruction?useskin=vector
 [Distributed ML]: https://joerihermans.com/ramblings/distributed-deep-learning-part-1-an-introduction/
@@ -38,12 +40,12 @@ Always open to discussions and collaboration. Feel free to reach out to me via: 
 [html-shield]: https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white
 [css-shield]: https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white
 [js-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+[open3d-shield]: https://img.shields.io/badge/Open3D-FFFFFF.svg?style=flat&logo=open3d&logoColor=white
 [opencv-shield]: https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white
 [rust-shield]: https://img.shields.io/badge/Rust-D2691E?style=flat&logo=rust&logoColor=white
 [pytorch-shield]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white
 [jax-shield]: https://img.shields.io/badge/JAX-007FFF?style=flat&logo=google&logoColor=white
 [c-shield]: https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white
-[open3d-shield]: https://img.shields.io/badge/Open3D-%23white.svg?style=flat&logoColor=white
 [onnx-shield]: https://img.shields.io/badge/ONNX-%23white.svg?style=flat&logo=ONNX&logoColor=white
 [keras-shield]: https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras&logoColor=white
 [cuda-shield]: https://img.shields.io/badge/CUDA-%2300C853?style=flat&logo=nvidia&logoColor=white
