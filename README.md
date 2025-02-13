@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Aditya  
 
-NYC-based Roboticist working on Machine Learning + Computer Vision and Robotics. 
+Roboticist working on Machine Learning + Computer Vision and Robotics. 
 - Interested in [Augmented and Extented Reality (AR/XR)], [Self-Driving] (Pereption, SLAM and Control), [3D Reconstruction] - Structure-from-Motion, Photogrammetry, Neural Rendering & NeRF, Gaussian Splatting, [Distributed ML], [ML Inference]
 - Exploring - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning] (Imitation Learning, Behaviour Cloning, Vision-Language-Action Models, Reinforcement Learning)
 
