@@ -2,8 +2,8 @@
 ## 👋 Hi, I'm Aditya  
 
 Roboticist working on Machine Learning + Computer Vision and Robotics. 
-- Interested in [Augmented and Extented Reality (AR/XR)], [Self-Driving] (Pereption, SLAM and Control), [3D Reconstruction] - Structure-from-Motion, Photogrammetry, Neural Rendering & NeRF, Gaussian Splatting, [Distributed ML], [ML Inference]
-- Exploring - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning] (Imitation Learning, Behaviour Cloning, Vision-Language-Action Models, Reinforcement Learning)
+- Interested in [Augmented and Extented Reality (AR/XR)], [Self-Driving] (Perception, SLAM and Control), [3D Reconstruction] - Structure-from-Motion, Photogrammetry, Neural Rendering & NeRF, Gaussian Splatting, [Distributed ML], [ML Inference]
+- Exploring - [LLMs], [VLMs], [AI Agents], [Embodied AI] and [Robot Learning] (Imitation Learning, Behaviour Cloning, Vision-Language-Action Models)
 
 I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
