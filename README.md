@@ -2,8 +2,8 @@
 ## 👋 Hi, I'm Aditya  
 
 Research Software Engineer working on Machine Learning + Computer Vision and Robotics. 
-- Interested in [Embodied AI] & [Robot Learning], [Augmented and Extented Reality (AR/XR)], [Self-Driving], [3D Reconstruction], [Distributed ML], [ML Inference]
-- Exploring - [LLMs], [VLMs], [AI Agents]
+- Have worked on: [Augmented and Extented Reality (AR/XR)], [Self-Driving], [3D Reconstruction], [ML Inference]
+- Want to work on: [LLMs], [VLMs], [AI Agents], [Embodied AI] & [Robot Learning]
 
 I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
