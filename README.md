@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Aditya  
 
-Roboticist working on Machine Learning + Computer Vision and Robotics. 
+Research Software Engineer working on Machine Learning + Computer Vision and Robotics. 
 - Interested in [Embodied AI] & [Robot Learning], [Augmented and Extented Reality (AR/XR)], [Self-Driving], [3D Reconstruction], [Distributed ML], [ML Inference]
 - Exploring - [LLMs], [VLMs], [AI Agents]
 
