@@ -1,34 +1,23 @@
 
 ## 👋 Hi, I'm Aditya  
 
-Research Software Engineer working on Machine Learning + Computer Vision and Robotics. 
-- Have worked on: [Augmented and Extented Reality (AR/XR)], [Self-Driving], [3D Reconstruction], [ML Inference]
-- Want to work on: [LLMs], [VLMs], [AI Agents], [Embodied AI] & [Robot Learning]
+Research Software Engineer working on Machine Learning + 3D Computer Vision and Robotics.
+
+Following is the list of problems I:
+- <ins>Have worked on:</ins> Visual SLAM, Visual-Inertial Odometry, Point Cloud Registration, Semantic Segmentation, 3D Object Detection, Machine Learning Inference
+- <ins>Want to work on:</ins> LLMs/VLMs + Robot Manipulation/Navigation (a.k.a VLAs), Language-Grounded Semantic SLAM
 
 I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
 Always eager to learn new things, discuss and collaborate. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
 
-### 🛠️ Tech Stack
+### 🛠️ Programming Languages and Frameworks I Usually Use:
 
 #### Experienced
 ![Python][python-shield] ![C++][cpp-shield] ![C][c-shield] ![MATLAB][matlab-shield] ![Bash][bash-shield] ![CUDA][cuda-shield] ![HTML][html-shield] ![CSS][css-shield] ![JavaScript][js-shield] ![PyTorch][pytorch-shield] ![OpenCV][opencv-shield] ![Open3D][open3d-shield] ![Keras][keras-shield] ![TensorFlow][tensorflow-shield] ![Hugging Face][huggingface-shield] ![Scikit-learn][scikit-learn-shield] ![NumPy][numpy-shield] ![SciPy][scipy-shield] ![Pandas][pandas-shield] ![CMake][cmake-shield] ![ONNX][onnx-shield] ![TensorRT][tensorrt-shield] ![Docker][docker-shield] ![Linux][linux-shield] 
 
 #### Learning
 ![Rust][rust-shield] ![JAX][jax-shield]
-
-
-[Augmented and Extented Reality (AR/XR)]: https://www.youtube.com/watch?v=G0eKzU_fV00 
-[Self-Driving]: https://www.youtube.com/watch?v=hA_-MkU0Nfw
-[3D Reconstruction]: https://en.wikipedia.org/wiki/3D_reconstruction?useskin=vector
-[Distributed ML]: https://joerihermans.com/ramblings/distributed-deep-learning-part-1-an-introduction/
-[ML Inference]: https://www.nscale.com/blog/ai-inference-what-is-it-how-does-it-work-and-why-it-is-important
-[LLMs]: https://en.wikipedia.org/wiki/Large_language_model
-[VLMs]: https://www.nvidia.com/en-us/glossary/vision-language-models/
-[AI Agents]: https://blogs.nvidia.com/blog/what-is-agentic-ai/
-[Embodied AI]: https://www.cmu.edu/real/
-[Robot Learning]: https://www.ieee-ras.org/robot-learning
-
 
 [linkedin]: https://www.linkedin.com/in/adityamwagh
 [x]: https://www.x.com/adityamwagh
