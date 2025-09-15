@@ -3,9 +3,7 @@
 
 I'm a Research Engineer working on Machine Learning + 3D Computer Vision and Robotics. I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
 
-Following is the list of problems I:
-- <ins>Have worked on:</ins> Visual SLAM, Visual-Inertial Odometry, Point Cloud Registration, Semantic Segmentation, 3D Object Detection, Machine Learning Inference
-- <ins>Want to work on:</ins> LLMs/VLMs + Robot Manipulation/Navigation (a.k.a VLAs), Language-Grounded Semantic SLAM, Robot Learning in general.
+I've previously worked on Visual SLAM, Visual-Inertial Odometry, Point Cloud Registration, Semantic Segmentation, 3D Object Detection, Machine Learning Inference. I'll soon be working on LLMs/VLMs + Robot Manipulation/Navigation (a.k.a VLAs), Language-Grounded Semantic SLAM, Robot Learning in general.
 
 And this is the list of domains I find exciting:
 - General Purpose Robots - Humanoids, Mobile and Fixed Manipulators
