@@ -1,4 +1,4 @@
-
+<!--
 ## 👋 Hi, I'm Aditya  
 
 I'm a Research Engineer working on Machine Learning + 3D Computer Vision and Robotics. I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
@@ -12,6 +12,29 @@ And this is the list of domains I find exciting:
 - Multi-Modal Autonomous Robots - Perception, Localization, Mapping
 
 Always eager to learn new things, discuss and collaborate. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
+-->
+
+# A poem about me and my work
+
+*From NYU's halls to BITS Pilani's fame,*  
+*A Research Engineer—Aditya's the name.*  
+*With ML and vision in 3D space,*  
+*And robots that learn to see and trace.*
+
+*From SLAM and odometry's visual art,*  
+*To point clouds and segments pulled apart,*  
+*Detection in three dimensions clear,*  
+*Soon VLAs and language mapping here.*
+
+*Humanoids rising, manipulators true,*  
+*AI agents coding—fresh work to pursue.*  
+*In AR and XR, where realities blend,*  
+*Autonomous systems from end to end.*
+
+*Always learning, eager to share,*  
+*Collaboration welcomed everywhere.*  
+*On LinkedIn, Email, or X's blue stream,*  
+*Reach out and join this robotics dream!*
 
 ### 🛠️ Programming Languages and Frameworks I Usually Use:
 
