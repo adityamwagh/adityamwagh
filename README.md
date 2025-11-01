@@ -1,48 +1,24 @@
+Hey there, welcome to my corner of GitHub! 
+
+I’m Aditya, a Research Engineer working on Vision-Language-Action (VLA) Models and Imitation Learning. My work focuses on combining Machine Learning, 3D Computer Vision, and Robotics. I also happen to be an alumnus of [NYU](https://en.wikipedia.org/wiki/New_York_University) and [BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani).
+
+I am genrally very excited about **General Purpose Robots** - Humanoids, Mobile and Fixed Manipulators, **Multi-Modal Perception** for Autonomous Robots, **Coding Agents** (like Claude Code), **Augmented Reality (AR)**/**Extended Reality (XR)**.
+
+If you’re into any of these areas, let’s connect! Feel free to reach out to me via: [LinkedIn](linkedin), [Email](email) or [X/Twitter (Open DMs)](x) to collaborate and have fun working together!
+
+
+#### 🛠️ Tech I usually use:
 <!--
-## 👋 Hi, I'm Aditya  
-
-I'm a Research Engineer working on Machine Learning + 3D Computer Vision and Robotics. I hold a MS in Electrical Engineering from [New York University (NYU)](https://nyu.edu) and a B.Eng (Honors) Electrical Engineering from [BITS Pilani](https://bits-pilani.ac.in).
-
-I've previously worked on Visual SLAM, Visual-Inertial Odometry, Point Cloud Registration, Semantic Segmentation, 3D Object Detection, Machine Learning Inference. I'll soon be working on LLMs/VLMs + Robot Manipulation/Navigation (a.k.a VLAs), Language-Grounded Semantic SLAM, Robot Learning in general.
-
-And this is the list of domains I find exciting:
-- General Purpose Robots - Humanoids, Mobile and Fixed Manipulators
-- AI Agents (for example - coding agents like Claude Code)
-- Augmented and Extended Reality
-- Multi-Modal Autonomous Robots - Perception, Localization, Mapping
-
-Always eager to learn new things, discuss and collaborate. Feel free to reach out to me via: [LinkedIn][linkedin], [Email][email] or [X/Twitter (Open DMs)][x]
--->
-
-# A poem about me and my work
-
-*From NYU's halls to BITS Pilani's fame,*  
-*A Research Engineer—Aditya's the name.*  
-*With ML and vision in 3D space,*  
-*And robots that learn to see and trace.*
-
-*From SLAM and odometry's visual art,*  
-*To point clouds and segments pulled apart,*  
-*Detection in three dimensions clear,*  
-*Soon VLAs and language mapping here.*
-
-*Humanoids rising, manipulators true,*  
-*AI agents coding—fresh work to pursue.*  
-*In AR and XR, where realities blend,*  
-*Autonomous systems from end to end.*
-
-*Always learning, eager to share,*  
-*Collaboration welcomed everywhere.*  
-*On LinkedIn, Email, or X's blue stream,*  
-*Reach out and join this robotics dream!*
-
-### 🛠️ Programming Languages and Frameworks I Usually Use:
-
-#### Experienced
 ![Python][python-shield] ![C++][cpp-shield] ![C][c-shield] ![MATLAB][matlab-shield] ![Bash][bash-shield] ![CUDA][cuda-shield] ![HTML][html-shield] ![CSS][css-shield] ![JavaScript][js-shield] ![PyTorch][pytorch-shield] ![OpenCV][opencv-shield] ![Open3D][open3d-shield] ![Keras][keras-shield] ![TensorFlow][tensorflow-shield] ![Hugging Face][huggingface-shield] ![Scikit-learn][scikit-learn-shield] ![NumPy][numpy-shield] ![SciPy][scipy-shield] ![Pandas][pandas-shield] ![CMake][cmake-shield] ![ONNX][onnx-shield] ![TensorRT][tensorrt-shield] ![Docker][docker-shield] ![Linux][linux-shield] 
-
-#### Learning
-![Rust][rust-shield] ![JAX][jax-shield]
+-->
+| **Category**                               | **Technologies**                                                                                                                                                                                              |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages**                  | ![Python][python-shield] ![C++][cpp-shield] ![C][c-shield] ![CUDA][cuda-shield] ![Rust][rust-shield] ![MATLAB][matlab-shield] ![Bash][bash-shield] |
+| **ML Libraries & Frameworks**              | ![PyTorch][pytorch-shield] ![JAX][jax-shield] ![Keras][keras-shield] ![TensorFlow][tensorflow-shield] ![Hugging Face][huggingface-shield] ![Scikit-learn][scikit-learn-shield] ![ONNX][onnx-shield] ![TensorRT][tensorrt-shield] |
+| **Computer Vision & 3D Vision**            | ![OpenCV][opencv-shield] ![Open3D][open3d-shield]                                                                                                                                                             |
+| **Data Processing & Scientific Computing** | ![NumPy][numpy-shield] ![SciPy][scipy-shield] ![Pandas][pandas-shield]                                                                                                                                        |
+| **Development Tools**                      | ![CMake][cmake-shield] ![Docker][docker-shield]                                                                                                                                                               |
+| **Systems**                                | ![Linux][linux-shield]                                                                                                                                                               
 
 [linkedin]: https://www.linkedin.com/in/adityamwagh
 [x]: https://www.x.com/adityamwagh
@@ -58,7 +34,7 @@ Always eager to learn new things, discuss and collaborate. Feel free to reach ou
 [opencv-shield]: https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white
 [rust-shield]: https://img.shields.io/badge/Rust-D2691E?style=flat&logo=rust&logoColor=white
 [pytorch-shield]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white
-[jax-shield]: https://img.shields.io/badge/JAX-007FFF?style=flat&logo=google&logoColor=white
+[jax-shield]: https://img.shields.io/badge/JAX-007FFF?style=flat&logo=jax&logoColor=white
 [c-shield]: https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white
 [onnx-shield]: https://img.shields.io/badge/ONNX-%23white.svg?style=flat&logo=ONNX&logoColor=white
 [keras-shield]: https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras&logoColor=white
