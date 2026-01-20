@@ -1,8 +1,8 @@
 Hey there, welcome to my corner of GitHub! 
 
-I’m Aditya, a Research Engineer working on Vision-Language-Action (VLA) Models and Imitation Learning. My work focuses on combining Machine Learning, 3D Computer Vision, and Robotics. I also happen to be an alumnus of [NYU](https://en.wikipedia.org/wiki/New_York_University) and [BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani).
+I’m Aditya, a Research Engineer working on Robot Learning, World Models, Vision-Language-Action (VLA) Models and Imitation Learning. My work focuses on combining Machine Learning, 3D Computer Vision, and Robotics. I also happen to be an alumnus of [NYU](https://en.wikipedia.org/wiki/New_York_University) and [BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani).
 
-I am genrally very excited about **General Purpose Robots** - Humanoids, Mobile and Fixed Manipulators, **Multi-Modal Perception** for Autonomous Robots, **Coding Agents** (like Claude Code), **Augmented Reality (AR)**/**Extended Reality (XR)**.
+I am generally excited about **General Purpose Robots** - Humanoids, Mobile and Fixed Manipulators, **Multi-Modal Perception** for Autonomous Robots, **Coding Agents** (like Claude Code), **Augmented Reality (AR)**/**Extended Reality (XR)**.
 
 If you’re into any of these areas, let’s connect! Feel free to reach out to me via: [LinkedIn](linkedin), [Email](email) or [X/Twitter (Open DMs)](x) to collaborate and have fun working together!
 
